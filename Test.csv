@@ -1,0 +1,256 @@
+ID,Date_Time,Year,Month,Mdate,Day,Time,Sensor_ID,Sensor_Name,Hourly_Counts
+1, 01-JUN-2009 00:00,2009,June,1,Monday,0,4,Town Hall (West),194
+2, 01-JUN-2009 00:00,2009,June,1,Monday,0,17,Collins Place (South),21
+3, 01-JUN-2009 00:00,2009,June,1,Monday,0,18,Collins Place (North),9
+4, 01-JUN-2009 00:00,2009,June,1,Monday,0,16,Australia on Collins,39
+5, 01-JUN-2009 00:00,2009,June,1,Monday,0,2,Bourke Street Mall (South),28
+6, 01-JUN-2009 00:00,2009,June,1,Monday,0,1,Bourke Street Mall (North),37
+7, 01-JUN-2009 00:00,2009,June,1,Monday,0,13,Flagstaff Station,1
+8, 01-JUN-2009 00:00,2009,June,1,Monday,0,3,Melbourne Central,155
+9, 01-JUN-2009 00:00,2009,June,1,Monday,0,15,State Library,98
+10, 01-JUN-2009 00:00,2009,June,1,Monday,0,9,Southern Cross Station,7
+11, 01-JUN-2009 00:00,2009,June,1,Monday,0,10,Victoria Point,8
+12, 01-JUN-2009 00:00,2009,June,1,Monday,0,12,New Quay,30
+13, 01-JUN-2009 00:00,2009,June,1,Monday,0,11,Waterfront City,3
+14, 01-JUN-2009 00:00,2009,June,1,Monday,0,8,Webb Bridge,0
+15, 01-JUN-2009 00:00,2009,June,1,Monday,0,5,Princes Bridge,163
+16, 01-JUN-2009 00:00,2009,June,1,Monday,0,6,Flinders Street Station Underpass,134
+17, 01-JUN-2009 00:00,2009,June,1,Monday,0,14,Sandridge Bridge,50
+18, 01-JUN-2009 01:00,2009,June,1,Monday,1,4,Town Hall (West),82
+19, 01-JUN-2009 01:00,2009,June,1,Monday,1,17,Collins Place (South),11
+20, 01-JUN-2009 01:00,2009,June,1,Monday,1,18,Collins Place (North),3
+21, 01-JUN-2009 01:00,2009,June,1,Monday,1,16,Australia on Collins,19
+22, 01-JUN-2009 01:00,2009,June,1,Monday,1,2,Bourke Street Mall (South),16
+23, 01-JUN-2009 01:00,2009,June,1,Monday,1,1,Bourke Street Mall (North),40
+24, 01-JUN-2009 01:00,2009,June,1,Monday,1,13,Flagstaff Station,4
+25, 01-JUN-2009 01:00,2009,June,1,Monday,1,3,Melbourne Central,51
+26, 01-JUN-2009 01:00,2009,June,1,Monday,1,15,State Library,31
+27, 01-JUN-2009 01:00,2009,June,1,Monday,1,9,Southern Cross Station,1
+28, 01-JUN-2009 01:00,2009,June,1,Monday,1,10,Victoria Point,13
+29, 01-JUN-2009 01:00,2009,June,1,Monday,1,12,New Quay,59
+30, 01-JUN-2009 01:00,2009,June,1,Monday,1,11,Waterfront City,9
+31, 01-JUN-2009 01:00,2009,June,1,Monday,1,8,Webb Bridge,0
+32, 01-JUN-2009 01:00,2009,June,1,Monday,1,5,Princes Bridge,123
+33, 01-JUN-2009 01:00,2009,June,1,Monday,1,6,Flinders Street Station Underpass,103
+34, 01-JUN-2009 01:00,2009,June,1,Monday,1,14,Sandridge Bridge,21
+35, 01-JUN-2009 02:00,2009,June,1,Monday,2,4,Town Hall (West),77
+36, 01-JUN-2009 02:00,2009,June,1,Monday,2,17,Collins Place (South),9
+37, 01-JUN-2009 02:00,2009,June,1,Monday,2,18,Collins Place (North),8
+38, 01-JUN-2009 02:00,2009,June,1,Monday,2,16,Australia on Collins,22
+39, 01-JUN-2009 02:00,2009,June,1,Monday,2,2,Bourke Street Mall (South),20
+40, 01-JUN-2009 02:00,2009,June,1,Monday,2,1,Bourke Street Mall (North),24
+41, 01-JUN-2009 02:00,2009,June,1,Monday,2,13,Flagstaff Station,0
+42, 01-JUN-2009 02:00,2009,June,1,Monday,2,3,Melbourne Central,33
+43, 01-JUN-2009 02:00,2009,June,1,Monday,2,15,State Library,11
+44, 01-JUN-2009 02:00,2009,June,1,Monday,2,9,Southern Cross Station,0
+45, 01-JUN-2009 02:00,2009,June,1,Monday,2,10,Victoria Point,4
+46, 01-JUN-2009 02:00,2009,June,1,Monday,2,12,New Quay,1
+47, 01-JUN-2009 02:00,2009,June,1,Monday,2,11,Waterfront City,0
+48, 01-JUN-2009 02:00,2009,June,1,Monday,2,8,Webb Bridge,3
+49, 01-JUN-2009 02:00,2009,June,1,Monday,2,5,Princes Bridge,110
+50, 01-JUN-2009 02:00,2009,June,1,Monday,2,6,Flinders Street Station Underpass,123
+51, 01-JUN-2009 02:00,2009,June,1,Monday,2,14,Sandridge Bridge,32
+52, 01-JUN-2009 03:00,2009,June,1,Monday,3,4,Town Hall (West),47
+53, 01-JUN-2009 03:00,2009,June,1,Monday,3,17,Collins Place (South),10
+54, 01-JUN-2009 03:00,2009,June,1,Monday,3,18,Collins Place (North),2
+55, 01-JUN-2009 03:00,2009,June,1,Monday,3,16,Australia on Collins,6
+56, 01-JUN-2009 03:00,2009,June,1,Monday,3,2,Bourke Street Mall (South),10
+57, 01-JUN-2009 03:00,2009,June,1,Monday,3,1,Bourke Street Mall (North),2
+58, 01-JUN-2009 03:00,2009,June,1,Monday,3,13,Flagstaff Station,15
+59, 01-JUN-2009 03:00,2009,June,1,Monday,3,3,Melbourne Central,46
+60, 01-JUN-2009 03:00,2009,June,1,Monday,3,15,State Library,8
+61, 01-JUN-2009 03:00,2009,June,1,Monday,3,9,Southern Cross Station,1
+62, 01-JUN-2009 03:00,2009,June,1,Monday,3,10,Victoria Point,8
+63, 01-JUN-2009 03:00,2009,June,1,Monday,3,12,New Quay,6
+64, 01-JUN-2009 03:00,2009,June,1,Monday,3,11,Waterfront City,0
+65, 01-JUN-2009 03:00,2009,June,1,Monday,3,8,Webb Bridge,0
+66, 01-JUN-2009 03:00,2009,June,1,Monday,3,5,Princes Bridge,66
+67, 01-JUN-2009 03:00,2009,June,1,Monday,3,6,Flinders Street Station Underpass,22
+68, 01-JUN-2009 03:00,2009,June,1,Monday,3,14,Sandridge Bridge,4
+69, 01-JUN-2009 04:00,2009,June,1,Monday,4,4,Town Hall (West),40
+70, 01-JUN-2009 04:00,2009,June,1,Monday,4,17,Collins Place (South),7
+71, 01-JUN-2009 04:00,2009,June,1,Monday,4,18,Collins Place (North),0
+72, 01-JUN-2009 04:00,2009,June,1,Monday,4,16,Australia on Collins,14
+73, 01-JUN-2009 04:00,2009,June,1,Monday,4,2,Bourke Street Mall (South),2
+74, 01-JUN-2009 04:00,2009,June,1,Monday,4,1,Bourke Street Mall (North),5
+75, 01-JUN-2009 04:00,2009,June,1,Monday,4,13,Flagstaff Station,2
+76, 01-JUN-2009 04:00,2009,June,1,Monday,4,3,Melbourne Central,30
+77, 01-JUN-2009 04:00,2009,June,1,Monday,4,15,State Library,4
+78, 01-JUN-2009 04:00,2009,June,1,Monday,4,9,Southern Cross Station,0
+79, 01-JUN-2009 04:00,2009,June,1,Monday,4,10,Victoria Point,0
+80, 01-JUN-2009 04:00,2009,June,1,Monday,4,12,New Quay,6
+81, 01-JUN-2009 04:00,2009,June,1,Monday,4,11,Waterfront City,0
+82, 01-JUN-2009 04:00,2009,June,1,Monday,4,8,Webb Bridge,1
+83, 01-JUN-2009 04:00,2009,June,1,Monday,4,5,Princes Bridge,63
+84, 01-JUN-2009 04:00,2009,June,1,Monday,4,6,Flinders Street Station Underpass,56
+85, 01-JUN-2009 04:00,2009,June,1,Monday,4,14,Sandridge Bridge,45
+86, 01-JUN-2009 05:00,2009,June,1,Monday,5,4,Town Hall (West),95
+87, 01-JUN-2009 05:00,2009,June,1,Monday,5,17,Collins Place (South),57
+88, 01-JUN-2009 05:00,2009,June,1,Monday,5,18,Collins Place (North),45
+89, 01-JUN-2009 05:00,2009,June,1,Monday,5,16,Australia on Collins,36
+90, 01-JUN-2009 05:00,2009,June,1,Monday,5,2,Bourke Street Mall (South),18
+91, 01-JUN-2009 05:00,2009,June,1,Monday,5,1,Bourke Street Mall (North),30
+92, 01-JUN-2009 05:00,2009,June,1,Monday,5,13,Flagstaff Station,84
+93, 01-JUN-2009 05:00,2009,June,1,Monday,5,3,Melbourne Central,77
+94, 01-JUN-2009 05:00,2009,June,1,Monday,5,15,State Library,22
+95, 01-JUN-2009 05:00,2009,June,1,Monday,5,9,Southern Cross Station,52
+96, 01-JUN-2009 05:00,2009,June,1,Monday,5,10,Victoria Point,16
+97, 01-JUN-2009 05:00,2009,June,1,Monday,5,12,New Quay,4
+98, 01-JUN-2009 05:00,2009,June,1,Monday,5,11,Waterfront City,2
+99, 01-JUN-2009 05:00,2009,June,1,Monday,5,8,Webb Bridge,9
+100, 01-JUN-2009 05:00,2009,June,1,Monday,5,5,Princes Bridge,108
+101, 01-JUN-2009 05:00,2009,June,1,Monday,5,6,Flinders Street Station Underpass,239
+102, 01-JUN-2009 05:00,2009,June,1,Monday,5,14,Sandridge Bridge,68
+103, 01-JUN-2009 06:00,2009,June,1,Monday,6,4,Town Hall (West),150
+104, 01-JUN-2009 06:00,2009,June,1,Monday,6,17,Collins Place (South),199
+105, 01-JUN-2009 06:00,2009,June,1,Monday,6,18,Collins Place (North),209
+106, 01-JUN-2009 06:00,2009,June,1,Monday,6,16,Australia on Collins,85
+107, 01-JUN-2009 06:00,2009,June,1,Monday,6,2,Bourke Street Mall (South),55
+108, 01-JUN-2009 06:00,2009,June,1,Monday,6,1,Bourke Street Mall (North),107
+109, 01-JUN-2009 06:00,2009,June,1,Monday,6,13,Flagstaff Station,602
+110, 01-JUN-2009 06:00,2009,June,1,Monday,6,3,Melbourne Central,165
+111, 01-JUN-2009 06:00,2009,June,1,Monday,6,15,State Library,60
+112, 01-JUN-2009 06:00,2009,June,1,Monday,6,9,Southern Cross Station,427
+113, 01-JUN-2009 06:00,2009,June,1,Monday,6,10,Victoria Point,148
+114, 01-JUN-2009 06:00,2009,June,1,Monday,6,12,New Quay,29
+115, 01-JUN-2009 06:00,2009,June,1,Monday,6,11,Waterfront City,12
+116, 01-JUN-2009 06:00,2009,June,1,Monday,6,8,Webb Bridge,74
+117, 01-JUN-2009 06:00,2009,June,1,Monday,6,5,Princes Bridge,291
+118, 01-JUN-2009 06:00,2009,June,1,Monday,6,6,Flinders Street Station Underpass,514
+119, 01-JUN-2009 06:00,2009,June,1,Monday,6,14,Sandridge Bridge,144
+120, 01-JUN-2009 07:00,2009,June,1,Monday,7,4,Town Hall (West),384
+121, 01-JUN-2009 07:00,2009,June,1,Monday,7,17,Collins Place (South),843
+122, 01-JUN-2009 07:00,2009,June,1,Monday,7,18,Collins Place (North),854
+164, 01-JUN-2009 09:00,2009,June,1,Monday,9,10,Victoria Point,482
+123, 01-JUN-2009 07:00,2009,June,1,Monday,7,16,Australia on Collins,381
+124, 01-JUN-2009 07:00,2009,June,1,Monday,7,2,Bourke Street Mall (South),213
+125, 01-JUN-2009 07:00,2009,June,1,Monday,7,1,Bourke Street Mall (North),286
+126, 01-JUN-2009 07:00,2009,June,1,Monday,7,13,Flagstaff Station,2207
+127, 01-JUN-2009 07:00,2009,June,1,Monday,7,3,Melbourne Central,329
+128, 01-JUN-2009 07:00,2009,June,1,Monday,7,15,State Library,256
+129, 01-JUN-2009 07:00,2009,June,1,Monday,7,9,Southern Cross Station,460
+130, 01-JUN-2009 07:00,2009,June,1,Monday,7,10,Victoria Point,416
+131, 01-JUN-2009 07:00,2009,June,1,Monday,7,12,New Quay,58
+132, 01-JUN-2009 07:00,2009,June,1,Monday,7,11,Waterfront City,14
+133, 01-JUN-2009 07:00,2009,June,1,Monday,7,8,Webb Bridge,90
+134, 01-JUN-2009 07:00,2009,June,1,Monday,7,5,Princes Bridge,933
+135, 01-JUN-2009 07:00,2009,June,1,Monday,7,6,Flinders Street Station Underpass,1202
+136, 01-JUN-2009 07:00,2009,June,1,Monday,7,14,Sandridge Bridge,287
+137, 01-JUN-2009 08:00,2009,June,1,Monday,8,4,Town Hall (West),963
+138, 01-JUN-2009 08:00,2009,June,1,Monday,8,17,Collins Place (South),2084
+139, 01-JUN-2009 08:00,2009,June,1,Monday,8,18,Collins Place (North),1954
+140, 01-JUN-2009 08:00,2009,June,1,Monday,8,16,Australia on Collins,930
+141, 01-JUN-2009 08:00,2009,June,1,Monday,8,2,Bourke Street Mall (South),533
+142, 01-JUN-2009 08:00,2009,June,1,Monday,8,1,Bourke Street Mall (North),833
+143, 01-JUN-2009 08:00,2009,June,1,Monday,8,13,Flagstaff Station,5141
+144, 01-JUN-2009 08:00,2009,June,1,Monday,8,3,Melbourne Central,581
+145, 01-JUN-2009 08:00,2009,June,1,Monday,8,15,State Library,646
+146, 01-JUN-2009 08:00,2009,June,1,Monday,8,9,Southern Cross Station,1320
+147, 01-JUN-2009 08:00,2009,June,1,Monday,8,10,Victoria Point,954
+148, 01-JUN-2009 08:00,2009,June,1,Monday,8,12,New Quay,144
+149, 01-JUN-2009 08:00,2009,June,1,Monday,8,11,Waterfront City,30
+150, 01-JUN-2009 08:00,2009,June,1,Monday,8,8,Webb Bridge,137
+151, 01-JUN-2009 08:00,2009,June,1,Monday,8,5,Princes Bridge,1687
+152, 01-JUN-2009 08:00,2009,June,1,Monday,8,6,Flinders Street Station Underpass,2941
+153, 01-JUN-2009 08:00,2009,June,1,Monday,8,14,Sandridge Bridge,895
+154, 01-JUN-2009 09:00,2009,June,1,Monday,9,4,Town Hall (West),1242
+155, 01-JUN-2009 09:00,2009,June,1,Monday,9,17,Collins Place (South),1097
+156, 01-JUN-2009 09:00,2009,June,1,Monday,9,18,Collins Place (North),909
+157, 01-JUN-2009 09:00,2009,June,1,Monday,9,16,Australia on Collins,950
+158, 01-JUN-2009 09:00,2009,June,1,Monday,9,2,Bourke Street Mall (South),639
+159, 01-JUN-2009 09:00,2009,June,1,Monday,9,1,Bourke Street Mall (North),1074
+160, 01-JUN-2009 09:00,2009,June,1,Monday,9,13,Flagstaff Station,2282
+161, 01-JUN-2009 09:00,2009,June,1,Monday,9,3,Melbourne Central,717
+162, 01-JUN-2009 09:00,2009,June,1,Monday,9,15,State Library,566
+163, 01-JUN-2009 09:00,2009,June,1,Monday,9,9,Southern Cross Station,668
+165, 01-JUN-2009 09:00,2009,June,1,Monday,9,12,New Quay,111
+166, 01-JUN-2009 09:00,2009,June,1,Monday,9,11,Waterfront City,30
+167, 01-JUN-2009 09:00,2009,June,1,Monday,9,8,Webb Bridge,56
+168, 01-JUN-2009 09:00,2009,June,1,Monday,9,5,Princes Bridge,877
+169, 01-JUN-2009 09:00,2009,June,1,Monday,9,6,Flinders Street Station Underpass,1376
+170, 01-JUN-2009 09:00,2009,June,1,Monday,9,14,Sandridge Bridge,379
+171, 01-JUN-2009 10:00,2009,June,1,Monday,10,4,Town Hall (West),1769
+172, 01-JUN-2009 10:00,2009,June,1,Monday,10,17,Collins Place (South),688
+173, 01-JUN-2009 10:00,2009,June,1,Monday,10,18,Collins Place (North),543
+174, 01-JUN-2009 10:00,2009,June,1,Monday,10,16,Australia on Collins,1234
+175, 01-JUN-2009 10:00,2009,June,1,Monday,10,2,Bourke Street Mall (South),1163
+176, 01-JUN-2009 10:00,2009,June,1,Monday,10,1,Bourke Street Mall (North),1575
+177, 01-JUN-2009 10:00,2009,June,1,Monday,10,13,Flagstaff Station,987
+178, 01-JUN-2009 10:00,2009,June,1,Monday,10,3,Melbourne Central,996
+179, 01-JUN-2009 10:00,2009,June,1,Monday,10,15,State Library,676
+180, 01-JUN-2009 10:00,2009,June,1,Monday,10,9,Southern Cross Station,231
+181, 01-JUN-2009 10:00,2009,June,1,Monday,10,10,Victoria Point,217
+182, 01-JUN-2009 10:00,2009,June,1,Monday,10,12,New Quay,100
+183, 01-JUN-2009 10:00,2009,June,1,Monday,10,11,Waterfront City,46
+184, 01-JUN-2009 10:00,2009,June,1,Monday,10,8,Webb Bridge,25
+185, 01-JUN-2009 10:00,2009,June,1,Monday,10,5,Princes Bridge,817
+186, 01-JUN-2009 10:00,2009,June,1,Monday,10,6,Flinders Street Station Underpass,771
+187, 01-JUN-2009 10:00,2009,June,1,Monday,10,14,Sandridge Bridge,291
+188, 01-JUN-2009 11:00,2009,June,1,Monday,11,4,Town Hall (West),2272
+189, 01-JUN-2009 11:00,2009,June,1,Monday,11,17,Collins Place (South),651
+190, 01-JUN-2009 11:00,2009,June,1,Monday,11,18,Collins Place (North),511
+191, 01-JUN-2009 11:00,2009,June,1,Monday,11,16,Australia on Collins,1461
+192, 01-JUN-2009 11:00,2009,June,1,Monday,11,2,Bourke Street Mall (South),1469
+193, 01-JUN-2009 11:00,2009,June,1,Monday,11,1,Bourke Street Mall (North),2068
+194, 01-JUN-2009 11:00,2009,June,1,Monday,11,13,Flagstaff Station,844
+195, 01-JUN-2009 11:00,2009,June,1,Monday,11,3,Melbourne Central,1242
+196, 01-JUN-2009 11:00,2009,June,1,Monday,11,15,State Library,879
+197, 01-JUN-2009 11:00,2009,June,1,Monday,11,9,Southern Cross Station,267
+198, 01-JUN-2009 11:00,2009,June,1,Monday,11,10,Victoria Point,329
+199, 01-JUN-2009 11:00,2009,June,1,Monday,11,12,New Quay,174
+200, 01-JUN-2009 11:00,2009,June,1,Monday,11,11,Waterfront City,74
+201, 01-JUN-2009 11:00,2009,June,1,Monday,11,8,Webb Bridge,41
+202, 01-JUN-2009 11:00,2009,June,1,Monday,11,5,Princes Bridge,966
+203, 01-JUN-2009 11:00,2009,June,1,Monday,11,6,Flinders Street Station Underpass,875
+204, 01-JUN-2009 11:00,2009,June,1,Monday,11,14,Sandridge Bridge,433
+205, 01-JUN-2009 12:00,2009,June,1,Monday,12,4,Town Hall (West),3337
+206, 01-JUN-2009 12:00,2009,June,1,Monday,12,17,Collins Place (South),1326
+207, 01-JUN-2009 12:00,2009,June,1,Monday,12,18,Collins Place (North),761
+208, 01-JUN-2009 12:00,2009,June,1,Monday,12,16,Australia on Collins,2398
+209, 01-JUN-2009 12:00,2009,June,1,Monday,12,2,Bourke Street Mall (South),2427
+210, 01-JUN-2009 12:00,2009,June,1,Monday,12,1,Bourke Street Mall (North),3318
+211, 01-JUN-2009 12:00,2009,June,1,Monday,12,13,Flagstaff Station,988
+212, 01-JUN-2009 12:00,2009,June,1,Monday,12,3,Melbourne Central,1874
+213, 01-JUN-2009 12:00,2009,June,1,Monday,12,15,State Library,1287
+214, 01-JUN-2009 12:00,2009,June,1,Monday,12,9,Southern Cross Station,798
+215, 01-JUN-2009 12:00,2009,June,1,Monday,12,10,Victoria Point,509
+216, 01-JUN-2009 12:00,2009,June,1,Monday,12,12,New Quay,285
+217, 01-JUN-2009 12:00,2009,June,1,Monday,12,11,Waterfront City,163
+218, 01-JUN-2009 12:00,2009,June,1,Monday,12,8,Webb Bridge,82
+219, 01-JUN-2009 12:00,2009,June,1,Monday,12,5,Princes Bridge,1302
+220, 01-JUN-2009 12:00,2009,June,1,Monday,12,6,Flinders Street Station Underpass,1795
+221, 01-JUN-2009 12:00,2009,June,1,Monday,12,14,Sandridge Bridge,594
+222, 01-JUN-2009 13:00,2009,June,1,Monday,13,4,Town Hall (West),3854
+223, 01-JUN-2009 13:00,2009,June,1,Monday,13,17,Collins Place (South),1330
+224, 01-JUN-2009 13:00,2009,June,1,Monday,13,18,Collins Place (North),675
+225, 01-JUN-2009 13:00,2009,June,1,Monday,13,16,Australia on Collins,2638
+226, 01-JUN-2009 13:00,2009,June,1,Monday,13,2,Bourke Street Mall (South),2785
+227, 01-JUN-2009 13:00,2009,June,1,Monday,13,1,Bourke Street Mall (North),3898
+228, 01-JUN-2009 13:00,2009,June,1,Monday,13,13,Flagstaff Station,1117
+229, 01-JUN-2009 13:00,2009,June,1,Monday,13,3,Melbourne Central,2183
+230, 01-JUN-2009 13:00,2009,June,1,Monday,13,15,State Library,1587
+231, 01-JUN-2009 13:00,2009,June,1,Monday,13,9,Southern Cross Station,703
+232, 01-JUN-2009 13:00,2009,June,1,Monday,13,10,Victoria Point,447
+233, 01-JUN-2009 13:00,2009,June,1,Monday,13,12,New Quay,266
+234, 01-JUN-2009 13:00,2009,June,1,Monday,13,11,Waterfront City,137
+235, 01-JUN-2009 13:00,2009,June,1,Monday,13,8,Webb Bridge,85
+236, 01-JUN-2009 13:00,2009,June,1,Monday,13,5,Princes Bridge,1296
+237, 01-JUN-2009 13:00,2009,June,1,Monday,13,6,Flinders Street Station Underpass,1821
+238, 01-JUN-2009 13:00,2009,June,1,Monday,13,14,Sandridge Bridge,518
+239, 01-JUN-2009 14:00,2009,June,1,Monday,14,4,Town Hall (West),3057
+240, 01-JUN-2009 14:00,2009,June,1,Monday,14,17,Collins Place (South),801
+241, 01-JUN-2009 14:00,2009,June,1,Monday,14,18,Collins Place (North),578
+242, 01-JUN-2009 14:00,2009,June,1,Monday,14,16,Australia on Collins,1684
+243, 01-JUN-2009 14:00,2009,June,1,Monday,14,2,Bourke Street Mall (South),1809
+244, 01-JUN-2009 14:00,2009,June,1,Monday,14,1,Bourke Street Mall (North),2737
+245, 01-JUN-2009 14:00,2009,June,1,Monday,14,13,Flagstaff Station,921
+246, 01-JUN-2009 14:00,2009,June,1,Monday,14,3,Melbourne Central,1998
+247, 01-JUN-2009 14:00,2009,June,1,Monday,14,15,State Library,1500
+248, 01-JUN-2009 14:00,2009,June,1,Monday,14,9,Southern Cross Station,344
+249, 01-JUN-2009 14:00,2009,June,1,Monday,14,10,Victoria Point,245
+250, 01-JUN-2009 14:00,2009,June,1,Monday,14,12,New Quay,191
+251, 01-JUN-2009 14:00,2009,June,1,Monday,14,11,Waterfront City,124
+252, 01-JUN-2009 14:00,2009,June,1,Monday,14,8,Webb Bridge,56
+253, 01-JUN-2009 14:00,2009,June,1,Monday,14,5,Princes Bridge,1042
+254, 01-JUN-2009 14:00,2009,June,1,Monday,14,6,Flinders Street Station Underpass,1404
+255, 01-JUN-2009 14:00,2009,June,1,Monday,14,14,Sandridge Bridge,502
